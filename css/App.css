@@ -55,4 +55,10 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.completed {
+  opacity: 0.4;
+  -webkit-text-decoration: line-through 3px black;
+          text-decoration: line-through 3px black;
 }/*# sourceMappingURL=App.css.map */
